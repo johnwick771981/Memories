@@ -4,13 +4,14 @@
   "description": "��#\u0000 \u0000M\u0000e\u0000m\u0000o\u0000r\u0000i\u0000e\u0000s\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnwick771981/Memories.git"
   },
-  "author": "",
+  "author": "Anirudh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/johnwick771981/Memories/issues"
